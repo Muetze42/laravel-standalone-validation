@@ -1,0 +1,7 @@
+{
+    "require": {
+        "illuminate/filesystem": "^9.43",
+        "illuminate/translation": "^9.43",
+        "illuminate/validation": "^9.43"
+    }
+}
